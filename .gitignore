@@ -1,0 +1,21 @@
+# ROS2编译生成文件
+build/
+install/
+log/
+devel/
+build_isolated/
+devel_isolated/
+install_isolated/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ROS日志/临时文件
+.ros/
+*.log
+*.swp
+.DS_Store
+*.orig
